@@ -1,12 +1,14 @@
-<p align="center"><img src="assets/banner.jpg" alt="Tommy Shelby — Ship real work with Claude Code & Codex" width="100%"></p>
+<p align="center"><img src="assets/banner-cyber.jpg" alt="Tommy Shelby: One man. An army of AI agents." width="100%"></p>
 
-### Hi, I'm Tommy 👋
+### One man. An army of AI agents.
 
-Indie dev. I use **Claude Code** and **Codex** every day for real work: AI coding, agent automation, scrapers and cross-border trade tooling. I write up what broke and how I fixed it.
+**AI WORKERS // LEADS ON AUTOPILOT // ONE KEY, EVERY TOP MODEL**
 
-独立开发者。每天用 Claude Code、Codex 干真活：AI 编程实战、智能体自动化、外贸工具。踩过的坑都会写出来。
+I build AI workers that find leads, answer customers, write content and run operations 24/7 for real businesses, and I show the numbers.
 
-**Now building → [TommyAPI](https://tommyapi.com/?utm_source=github&utm_medium=profile)**: one key for Claude, GPT, Gemini, DeepSeek and more. OpenAI- and Anthropic-compatible endpoints, pay as you go.
+一个人，带一支 AI 军团：AI 员工定制 · 7×24 自动获客 · 企业 AI 落地 · 一个 Key 用遍顶级模型。
+
+**Also building → [TommyAPI](https://tommyapi.com/?utm_source=github&utm_medium=profile)**: one key for every top model. OpenAI- and Anthropic-compatible endpoints, pay as you go.
 
 ### Open source
 
@@ -22,7 +24,7 @@ Indie dev. I use **Claude Code** and **Codex** every day for real work: AI codin
 
 ### Find me
 
-[X @Tommyshelby2608](https://x.com/Tommyshelby2608) · [DEV](https://dev.to/tommybuilds) · [Hashnode](https://hashnode.com/@tommybuilds) · [Product Hunt](https://www.producthunt.com/@tommybuilds) · [Reddit](https://www.reddit.com/user/TommyShelby_86/) · [哔哩哔哩](https://space.bilibili.com/25357478) · [About me](https://tommyapi.com/tommy/)
+[Website](https://tommyapi.com) · [X @Tommyshelby2608](https://x.com/Tommyshelby2608) · [YouTube](https://www.youtube.com/@TommyShelbyAI) · [DEV](https://dev.to/tommybuilds) · [Hashnode](https://hashnode.com/@tommybuilds) · [Product Hunt](https://www.producthunt.com/@tommybuilds) · [Reddit](https://www.reddit.com/user/TommyShelby_86/) · [哔哩哔哩](https://space.bilibili.com/25357478) · [About me](https://tommyapi.com/tommy/)
 
 📮 **tommy@tommyapi.com**: builds, integrations, or just to compare notes.
 
